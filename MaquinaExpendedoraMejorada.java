@@ -28,12 +28,6 @@ public class MaquinaExpendedoraMejorada {
         estacionDestino = destino;
         numeroDeBilletesVendidos = 0;
         tienePremio = premio;
-         if(tienePremio == true) {
-            System.out.println("Tienes un descuento de " + 0.1 * precioBillete + "Euros");
-
-        }
-        else {
-        }
     }
 
     /**
